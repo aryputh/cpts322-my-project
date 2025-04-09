@@ -1,5 +1,5 @@
 name: Java Build and Docker Push
-'on':
+on:
   push:
     branches:
       - master
